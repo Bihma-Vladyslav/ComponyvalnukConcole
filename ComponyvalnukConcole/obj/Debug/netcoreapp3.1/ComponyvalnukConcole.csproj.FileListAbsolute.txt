@@ -1,0 +1,14 @@
+D:\Visual Studio расположение\source\repos\ComponyvalnukConcole\ComponyvalnukConcole\bin\Debug\netcoreapp3.1\ComponyvalnukConcole.exe
+D:\Visual Studio расположение\source\repos\ComponyvalnukConcole\ComponyvalnukConcole\bin\Debug\netcoreapp3.1\ComponyvalnukConcole.deps.json
+D:\Visual Studio расположение\source\repos\ComponyvalnukConcole\ComponyvalnukConcole\bin\Debug\netcoreapp3.1\ComponyvalnukConcole.runtimeconfig.json
+D:\Visual Studio расположение\source\repos\ComponyvalnukConcole\ComponyvalnukConcole\bin\Debug\netcoreapp3.1\ComponyvalnukConcole.runtimeconfig.dev.json
+D:\Visual Studio расположение\source\repos\ComponyvalnukConcole\ComponyvalnukConcole\bin\Debug\netcoreapp3.1\ComponyvalnukConcole.dll
+D:\Visual Studio расположение\source\repos\ComponyvalnukConcole\ComponyvalnukConcole\bin\Debug\netcoreapp3.1\ComponyvalnukConcole.pdb
+D:\Visual Studio расположение\source\repos\ComponyvalnukConcole\ComponyvalnukConcole\obj\Debug\netcoreapp3.1\ComponyvalnukConcole.csproj.AssemblyReference.cache
+D:\Visual Studio расположение\source\repos\ComponyvalnukConcole\ComponyvalnukConcole\obj\Debug\netcoreapp3.1\ComponyvalnukConcole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio расположение\source\repos\ComponyvalnukConcole\ComponyvalnukConcole\obj\Debug\netcoreapp3.1\ComponyvalnukConcole.AssemblyInfoInputs.cache
+D:\Visual Studio расположение\source\repos\ComponyvalnukConcole\ComponyvalnukConcole\obj\Debug\netcoreapp3.1\ComponyvalnukConcole.AssemblyInfo.cs
+D:\Visual Studio расположение\source\repos\ComponyvalnukConcole\ComponyvalnukConcole\obj\Debug\netcoreapp3.1\ComponyvalnukConcole.csproj.CoreCompileInputs.cache
+D:\Visual Studio расположение\source\repos\ComponyvalnukConcole\ComponyvalnukConcole\obj\Debug\netcoreapp3.1\ComponyvalnukConcole.dll
+D:\Visual Studio расположение\source\repos\ComponyvalnukConcole\ComponyvalnukConcole\obj\Debug\netcoreapp3.1\ComponyvalnukConcole.pdb
+D:\Visual Studio расположение\source\repos\ComponyvalnukConcole\ComponyvalnukConcole\obj\Debug\netcoreapp3.1\ComponyvalnukConcole.genruntimeconfig.cache
